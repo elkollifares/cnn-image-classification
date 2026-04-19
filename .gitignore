@@ -6,6 +6,8 @@ datasets/
 saved_cnn_models/
 saved_classic_models/
 
+outputs/
+
 *.h5
 *.keras
 *.pt
